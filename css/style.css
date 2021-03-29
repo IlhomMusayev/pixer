@@ -8,7 +8,9 @@ ul,
 ol {
     list-style: none;
 }
-
+html{
+    scroll-behavior:smooth;
+}
 a {
     display: inline-block;
 }
