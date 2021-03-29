@@ -99,7 +99,7 @@ nav{
     line-height: 25px;
 }
 .header-video iframe{
-    border-radius: 10px;
+    border-radius: 10px     ;
     order: 0;
     width: 100%;
     height: 300px;
@@ -229,7 +229,17 @@ nav{
     margin: 0 0 0 19px ;
     padding: 15px 20px;
 }
-
+.phone-number-section{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#select-country{
+    width: 25%;
+}
+#input-phone{
+    width: 60%;
+}
 /* *****************************************footer********************************** */
 footer{
     background-color: #191919;
